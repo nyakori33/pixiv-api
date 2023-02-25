@@ -3,8 +3,8 @@ Golang package for Pixiv Web API.
 
 # API List
 ## Completed
-* GetUserProfile
-* GetUserProfileSimple
+* GetUserProfile (struct only)
+* GetUserProfileSimple (struct only)
 
 ## Coming soon
 * GetUserHomeArtwork
