@@ -2,5 +2,5 @@ package pixiv
 
 import ()
 
-func GetUaa() {
+func Get() {
 }
